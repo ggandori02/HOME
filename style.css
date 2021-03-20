@@ -1,0 +1,12 @@
+h1{
+  font-size: 50px;
+  font-family: "NanumSquare";
+  margin:0;
+  padding-bottom: 20px;
+
+}
+
+@font-face{
+    font-family: "NanumSquare";
+    src:url("NanumSquare.ttf") format("truetype");
+}
