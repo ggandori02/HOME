@@ -82,6 +82,9 @@ iframe{
   display: grid;
   grid-template-columns: 300px 400px 1fr;
 }
+#letter{
+  font-size: 20px;
+}
 .year_list{
   border-color: black;
   border-right: 1px;
